@@ -1,0 +1,29 @@
+{
+    "users":[
+        {
+            "firstName":"Mehul",
+            "lastName":"Bhatia",
+            "phoneNumber":"12344321",
+            "userId":"meh_bhatia",
+            "password":"pass123",
+            "degree":{
+                "major":"Computer Science",
+                "graduationYear":2023,
+                "institution":"University of California"
+            }
+        },
+        {
+            "firstName":"Arun",
+            "lastName":"Govil",
+            "phoneNumber":"23411432",
+            "userId":"ar_govil",
+            "password":"pass211",
+            "degree":{
+                "major":"MBA",
+                "graduationYear":2024,
+                "institution":"ABC college"
+            }
+        }
+
+    ]
+}
